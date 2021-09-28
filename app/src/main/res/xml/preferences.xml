@@ -25,7 +25,7 @@
         app:iconSpaceReserved="false">
         <EditTextPreference
             android:summary="이름을 입력하세요"
-            android:key="key_edit_edit"
+            android:key="key_edit_name"
             android:dialogTitle="이름 입력"
             android:iconSpaceReserved="false"
             android:title="이름" />
